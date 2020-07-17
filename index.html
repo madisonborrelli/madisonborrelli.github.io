@@ -2,240 +2,271 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - FCC Projects - Personal Portfolio</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.2/normalize.css'>
-<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.css'><link rel="stylesheet" href="./style.css">
+  <title>CodePen - Personal Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css'><link rel="stylesheet" href="./style.css">
 
 </head>
 <body>
 <!-- partial:index.partial.html -->
-<!-- NAV-BAR -->
-<div id="nav-bar">
+<head>
 
-  <div class="nav-container">
-    <div class="toggle-nav">
-      <i class="fa fa-bars"></i>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lato:100,300italic,400,700,900' rel='stylesheet' type='text/css'>
+
+ 
+
+
+  <title>Bruce Young - Personal Portfolio</title>
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+
+  <nav id="nav-bar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+        <a class="navbar-brand animated flip" href="#twoam">2am ninja</a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#about">About</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+
+      </div>
+      <!-- /.navbar-collapse -->
     </div>
+    <!-- /.container-fluid -->
+  </nav>
 
-    <ul class="nav-list">
-      <li class="active">
-        <a data-title="home">Home</a>
-      </li>
-      <li>
-        <a data-title="about">About</a>
-      </li>
-      <li>
-        <a data-title="portfolio">Portfolio</a>
-      </li>
-      <li>
-        <a data-title="contact">Contact</a>
-      </li>
-    </ul>
 
-  </div>
-  <!-- end-nav-container -->
-
-</div>
-<!-- end-nav-bar -->
-
-<!-- HOME -->
-<div id="home" class="section">
-
-  <div class="section-container">
-
-    <div class="profil">
-      <div class="profil-img"></div>
-      <h1>MOHAMMED ERRAYSY</h1>
-      <p><u>Web Designer &amp; Front End Developer</u></p>
-    </div>
-    <!-- end-profil -->
-
-    <div class="social-links">
-      <a href="//twitter.com/merraysy" target="_blanc"><i class="fa fa-twitter"></i></a>
-      <a href="//plus.google.com/+MohammedErraysyy" target="_blanc"><i class="fa fa-google-plus"></i></a>
-      <a href="//facebook.com/merraysy" target="_blanc"><i class="fa fa-facebook"></i></a>
-      <a href="//linkedin.com/in/merraysy" target="_blanc"><i class="fa fa-linkedin"></i></a>
-      <a href="//github.com/merraysy" target="_blanc"><i class="fa fa-github"></i></a>
-    </div>
-    <!-- end-social-links -->
-
-  </div>
-  <!-- end-home-container -->
-
-  <div class="scroll-icon">
-    <div class="scroll-container">
-      <figure>
-        <svg id="mouse" viewBox="0 0 106 106" width="40" height="60">
-          <g>
-            <rect y="81" width="106" height="60" />
-            <polygon points="40,18 50,18 50,0 0,0 0,75 50,75 50,58 40,58 	"/>
-            <polygon points="56,0 56,18 66,18 66,58 56,58 56,75 106,75 106,0 	"/>
-            <rect class="wheel" x="45" y="23" width="16" height="30" />
-          </g>
-        </svg>
-      </figure>
-      <i class="fa fa-angle-double-down"></i>
-    </div>
-  </div>
-  <!-- end-scroll-icon -->
-
-</div>
-<!-- end-home -->
-
-<!-- ABOUT -->
-<div id="about" class="section">
-
-  <div class="section-container">
-
-    <div class="intro">
-      <h1>My name is Mohammed ERRAYSY</h1>
-      <p>I'm a junior Front End Developer, this page is a simple personal Porfolio project challenge for <a href="//freecodecamp.com" target="_blanc">FreeCodeCamp.com</a> school that decided to join to recap and wrapup my mind on the skills i've learned.</p>
-    </div>
-
-    <div class="skills">
-      <h2 class="title">My skills</h2>
-      <ul>
-        <li>
-          Responsive Design
-          <ul class="lvl-1">
-            <li><span class="skill-bar">95%</span><u>Bootstrap</u></li>
-            <li><span class="skill-bar">80%</span><u>Neat</u></li>
-          </ul>
-        </li>
-        <li>
-          CSS Tools
-          <ul class="lvl-1">
-            <li><span class="skill-bar">90%</span><u>SASS</u></li>
-            <li><span class="skill-bar">95%</span><u>Bourbon</u></li>
-          </ul>
-        </li>
-        <li>
-          Javascript Tools
-          <ul class="lvl-1">
-            <li><span class="skill-bar">75%</span><u>jQuery</u></li>
-            <li><span class="skill-bar">45%</span><u>AngularJS</u></li>
-          </ul>
-        </li>
-        <li>
-          Workflow
-          <ul class="lvl-1">
-            <li><span class="skill-bar">80%</span><u>Git</u></li>
-            <li><span class="skill-bar">60%</span><u>Grunt</u></li>
-          </ul>
-        </li>
-      </ul>
-    </div>
-    <!-- end-skills -->
-
-  </div>
-  <!-- end-about-container -->
-
-</div>
-<!-- end-home -->
-
-<!-- PORTFOLIO -->
-<div id="portfolio" class="section">
-
-  <div class="section-container">
-
-    <div class="title">
-      <h2>My Projects</h2>
-    </div>
-
-    <div class="thumbnails">
-      <ul>
-        <li>
-          <a href="#" target="_blanc">
-            <img src="//placehold.it/200?text=PLACEHOLDER" alt="placeholder" />
-            <span>
-              <h2>Title</h2>
-              <p>Desc</p>
-              <i class="fa fa-link"></i>
-            </span>
-          </a>
-        </li>
-        <li>
-          <a href="#" target="_blanc">
-            <img src="//placehold.it/200?text=PLACEHOLDER" alt="placeholder" />
-            <span>
-              <h2>Title</h2>
-              <p>Desc</p>
-              <i class="fa fa-link"></i>
-            </span>
-          </a>
-        </li>
-        <li>
-          <a href="#" target="_blanc">
-            <img src="//placehold.it/200?text=PLACEHOLDER" alt="placeholder" />
-            <span>
-              <h2>Title</h2>
-              <p>Desc</p>
-              <i class="fa fa-link"></i>
-            </span>
-          </a>
-        </li>
-        <li>
-          <a href="#" target="_blanc">
-            <img src="//placehold.it/200?text=PLACEHOLDER" alt="placeholder" />
-            <span>
-              <h2>Title</h2>
-              <p>Desc</p>
-              <i class="fa fa-link"></i>
-            </span>
-          </a>
-        </li>
-      </ul>
-    </div>
-    <!-- end-thumbnails -->
-
-  </div>
-  <!-- end-portfolio-container -->
-
-</div>
-<!-- end-home -->
-
-<!-- CONTACT -->
-<div id="contact" class="section">
-
-  <div class="section-container">
-
-    <div class="title">
-      <h2>Let's work together</h2>
-    </div>
-    <!-- end-title -->
-
-    <div class="form-container">
-      <form action="#project-form">
-        <div class="form-group profil-img">
-          <input required id="name" type="text" name="name" placeholder="Name">
+  <header id="twoam">
+    <div class="container-fluid">
+      <div class="row me animated fadeIn">
+        <div class="col-xs-offset-5 col-sm-offset-6 col-xs-7 col-sm-6">
+          <div class="tagline1">the portfolio of</div>
+          <div class="tagline2 animated fadeIn">BRUCE</div>
+          <div class="tagline2 animated fadeIn">YOUNG</div>
+          <div class="animated fadeIn">
+            <div class="tagline3a">{</div>
+            <div class="tagline3b">designer :
+              <br> coder :
+              <br> biologist :
+              <br> astronomer :
+              <br> educator :
+              <br>
+            </div>
+            <div class="tagline3c">}</div>
+          </div>
         </div>
-        <div class="form-group profil-img">
-          <input required id="email" type="email" name="email" placeholder="Email">
-        </div>
-        <div class="form-group profil-img">
-          <input required id="subject" type="text" name="subject" placeholder="Subject">
-        </div>
-        <div class="form-group profil-img">
-          <textarea required name="description" id="description" placeholder="Description"></textarea>
-        </div>
-        <div class="form-group profil-img">
-          <button type="reset" class="btn clear" name="clear">CLEAR</button>
-          <button type="submit" class="btn action" name="submit">SEND</button>
-        </div>
-      </form>
-      <!-- and-form -->
+      </div>
+      <div id="down" class="animated infinite slideInDown">
+        <i class="fa fa-chevron-circle-down fa-5x" aria-hidden="true"></i>
+      </div>
     </div>
-    <!-- end-form-container -->
+  </header>
 
-  </div>
-  <!-- end-contact-container -->
 
-</div>
-<!-- end-contact -->
+  <!-- about page -->
+  <section id="about" class="container-fluid">
+
+    <div class="row section-banner">
+      <div class="col-md-offset-3 col-md-6 text-center">
+        <div>
+          <span class="line about"></span>
+          <span class="section-title about">about</span>
+          <span class="line about"></span>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row max">
+
+      <div class="col-sm-4 text-center">
+        <div class="desc">
+          <div class="icon-me"><i class="fa fa-user"></i></div>
+          <p>A full stack developer with an eye for design, UX and UI development and a strong desire to learn and create. I have had a long career in the areas of educational software, multimedia production and web development.</p>
+        </div>
+      </div>
+
+      <div class="col-sm-4 text-center">
+        <div class="desc">
+          <div class="icon-me"><i class="fa fa-mortar-board"></i></div>
+          <p>I firmly believe in life long learning and I'm constantly exploring new ideas and technologies. MOOC's have enabled me to update my skills and keep abreast of the latest trends in design and coding.</p>
+        </div>
+      </div>
+
+      <div class="col-sm-4 text-center">
+        <div class="desc">
+          <div class="icon-me"><i class="fa fa-rocket"></i></div>
+          <p>My interests are wide with formal qualifications in Biology, Astronomy and Education. I have designed and/or written software for a large international diagnosics company, schools and universities.</p>
+        </div>
+      </div>
+
+    </div>
+
+
+  </section>
+
+
+  <!-- portfolio projects page -->
+  <section id="portfolio" class="container-fluid">
+
+    <div class="row section-banner">
+      <div class="col-md-offset-3 col-md-6 text-center">
+        <div>
+          <span class="line portfolio"></span>
+          <span class="section-title portfolio">portfolio</span>
+          <span class="line portfolio"></span>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row max">
+      <div class="col-sm-offset-2 col-sm-8 text-center">
+        <div class="desc">
+          <p>These items are mainly exercises done whilst undertaking a full stack development course with Free Code Camp. The details are on the back of the cards with links to my CodePen and live sites.</p>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- portfoloio projects cards -->
+
+    <div class="row" id="theProjects">
+
+    </div>
+  </section>
+
+
+  <!-- contact page -->
+  <section id="contact" class="container-fluid">
+
+    <div class="row section-banner">
+      <div class="col-md-offset-3 col-md-6 text-center">
+        <div>
+          <span class="line contact"></span>
+          <span class="section-title contact">contact</span>
+          <span class="line contact"></span>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row max">
+
+      <!-- email contact -->
+      <div class="col-sm-4 text-center">
+        <div class="desc">
+          <div class="icon-contact">
+            <a data-toggle="tooltip" title="Email" data-placement="top" href="mailto:2am.ninja@outlook.com">
+              <i class="fa fa-envelope"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- facebook contact -->
+      <div class="col-sm-4 text-center">
+        <div class="desc">
+          <div class="icon-contact">
+            <a data-toggle="tooltip" title="Facebook" data-placement="top" href="https://www.facebook.com/bruce.young.7505" target="_blank">
+              <i class="fa fa-facebook-square"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Twitter contact -->
+      <div class="col-sm-4 text-center">
+        <div class="desc">
+          <div class="icon-contact">
+            <a data-toggle="tooltip" title="Twitter" data-placement="top" href="https://twitter.com/mutantspore" target="_blank">
+              <i class="fa fa-twitter-square"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </section>
+
+
+    <!-- fixed footer for social links -->
+    <footer id='social-footer'>
+
+
+        <ul>
+
+            <li class='highlight'>
+                <a class="fa-stack fa-1x" data-toggle="tooltip" title="Email" data-placement="top" href="mailto:2am.ninja@outlook.com">
+                    <i class="fa fa-square fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x blacktext"></i>
+                </a>
+            </li>
+
+            <li class='highlight'>
+                <a class="fa-stack fa-1x" data-toggle="tooltip" title="FreeCodeCamp" data-placement="top" href="https://www.freecodecamp.com/mutantspore" target="_blank">
+                    <i class="fa fa-square fa-stack-2x"></i>
+                    <i class="fa fa-fire fa-stack-1x blacktext"></i>
+                </a>
+            </li>
+
+            <li class='highlight'>
+                <a class="fa-stack fa-1x" data-toggle="tooltip" title="Linkedin" data-placement="top" href="https://www.linkedin.com/in/brucewilliamyoung" target="_blank"><i class="fa fa-linkedin-square fa-stack-2x"></i></a>
+            </li>
+
+            <li class='highlight'>
+                <a class="fa-stack fa-1x" data-toggle="tooltip" title="Twitter" data-placement="top" href="https://twitter.com/mutantspore" target="_blank"><i class="fa fa-twitter-square fa-stack-2x"></i></a>
+            </li>
+
+            <li class='highlight'>
+                <a class="fa-stack fa-1x" data-toggle="tooltip" title="GitHub" data-placement="top" href="https://github.com/mutantspore" target="_blank"><i class="fa fa-github-square fa-stack-2x"></i></a>
+            </li>
+
+            <li class='highlight'>
+                <a class="fa-stack fa-1x" data-toggle="tooltip" title="CodePen" data-placement="top" href="https://codepen.io/MutantSpore/" target="_blank">
+                    <i class="fa fa-square fa-stack-2x"></i>
+                    <i class="fa fa-codepen fa-stack-1x blacktext"></i>
+                </a>
+            </li>
+
+            <li class='highlight'>
+                <a class="fa-stack fa-1x" data-toggle="tooltip" title="Facebook" data-placement="top" href="https://www.facebook.com/bruce.young.7505" target="_blank"><i class="fa fa-facebook-square fa-stack-2x"></i></a>
+            </li>
+
+            <li class='highlight'>
+                <a class="fa-stack fa-1x" data-toggle="tooltip" title="Google+" data-placement="top" href="https://plus.google.com/102948303758999079100/posts/p/pub?hl=en" target="_blank"><i class="fa fa-google-plus-square fa-stack-2x"></i></a>
+            </li>
+
+        </ul>
+
+
+
+        <div class="text-center copyright">
+        </div>
+
+
+    </footer>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.12/jquery.mousewheel.js'></script><script  src="./script.js"></script>
+<script src='https://codepen.io/MutantSpore/pen/WMQWVB.js'></script>
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js'></script><script  src="./script.js"></script>
 
 </body>
 </html>
