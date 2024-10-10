@@ -46,7 +46,7 @@ body {
 #twoam {
   width: 100vw;
   height: 100vh;
-  background-image: url("![me](https://github.com/user-attachments/assets/f44900d2-e33d-4bfe-a6af-009b9d0bfa47)");
+  background-image: url("me.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -135,7 +135,7 @@ body {
 #contact {
   width: 100vw;
   height: 100vh;
-  background-image: url(![PIA00215-cropped](https://github.com/user-attachments/assets/54b77936-1cef-4980-ad6b-14d02d58c960));
+  background-image: url("dome.jpg);
   background-color: black;
   background-repeat: no-repeat;
   background-position: center center;
