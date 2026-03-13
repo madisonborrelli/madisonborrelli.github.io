@@ -4,6 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
+<a href="https://github.com/madisonborrelli/madisonborrelli.github.io/blob/f8f936fc1f4b7686091ab3f710962ef034e15269/assets/Madison_Borrelli_CV.pdf" download>Download my CV</a>
+
+
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
