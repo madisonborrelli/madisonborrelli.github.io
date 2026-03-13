@@ -4,10 +4,7 @@ title: About me
 subtitle: Research Interests
 ---
 
-I am interested in 
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am interested in lithospheric and surface processes on terrestrial and icy bodies. In particular I study volcanism and impact craters on Venus, and impacts on icy moons of the outer solar system.
 
 What else do you need?
 
