@@ -12,7 +12,7 @@ Volcanism,	Impact Craters,  Lithospheric Flexure,  Terrestrial Planets,  Icy Sat
 
 ### Professional Appointments
 
-2024–present	Postdoctoral Fellow, Georgia Institute of Technology
+2024–present:	Postdoctoral Fellow, Georgia Institute of Technology
 
 ### Education
 
@@ -24,57 +24,92 @@ Thesis: Surface Features as a Probe into the Lithosphere: Volcanoes on Venus and
 ### Honors, Awards, Fellowships
 
 2022:	     Chateaubriand Fellowship, Embassy of France
+
 2022:	     Amelia Earhart Fellowship, Zonta International
+
 2022:	     Physical Volcanology Intern, University of the Azores
+
 2022:	     Graduate Excellence Award, ASU College of Liberal Arts and Sciences
+
 2021:	     GSA Graduate Research Grant, Geological Society of America
+
 2021:	     Honorable Mention, NSF GRFP
+
 2021:	     Nininger Student Travel Award
+
 2021-2022: Leadership Scholarship, ASU Graduate and Professional Student Association
+
 2020–2021: Student Leader, ASU College of Liberal Arts and Sciences
+
 2020–2021:	Leadership Scholarship, ASU Graduate and Professional Student Association
+
 2020	     Patti Grace Smith Scholarship, Commercial Spaceflight Federation
+
 2020	     ASU GPSA Travel Grant
+
 2014–2018 Trustee Scholar, Wheaton College Massachusetts
 
 ### Invited Talks
 2025	University of Georgia, Geology Colloquium
+
 2025	Georgia Institute of Technology, Solid Earth Seminar
+
 2025	Organization for Venus Early-Career Networking, Early Career Seminar 
+
 2024	Georgia Institute of Technology, Planetary Science & Astrobiology Seminar 
+
 2020	NASA New Horizons Science Team Meeting 
 
 ### Contributed Talks
 2025	Borrelli, M. E., I. Ganesh, “Formation of Crater Outflows on Venus is not Determined by Impact Angle”, VEXAG 2025, #8009
+
 2025	Borrelli, M. E., I. Ganesh, “Formation of Crater Outflows on Venus: Insights from Remote Sensing and Modeling”, LPSC 2025, #1166 
+
 2024	Borrelli, M. E., C. Michaut, J. G. O’Rourke, “Formation of Pancake Domes on Venus as Viscous Flows Over an Elastic Lithosphere”, Committee on Space Research 2024, #33825
+
 2023	Borrelli, M. E., C. Michaut, J. G. O’Rourke, “Formation of Pancake Domes on Venus as Viscous Flows Over an Elastic Lithosphere”, Venus as a System, #8008
+
 2022	Borrelli, M. E., C. J. Bierson, J. G. O’Rourke, S. M. Howell, “Using Crater Statistics to Place Constraints on Resurfacing and Historic Heat Flux of Uranian Satellites Ariel and Miranda”, AGU 2022, #1121085
+
 2021	Venus Exploration Analysis Group Virtual Colloquium, invited
+
 2021	Borrelli, M.E., J. G. O’Rourke, S. E. Smrekar, and C. M. Ostberg, “Global Survey of Pancake Domes Reveals Intermediate Elastic Thickness”, Lunar and Planetary Science Conference, #1250
+
 2021	Borrelli, M.E., J. G. O’Rourke, S. E. Smrekar, and C. M. Ostberg, “Global Survey of Pancake Domes Reveals Intermediate Elastic Thickness”, Volcanic and Magmatic Studies Group Conference
+
 2020	Borrelli, M. E., J. G. O’Rourke, S. E. Smrekar, and C. M. Ostberg, “A Global Survey of Lithospheric Flexure and Elastic Thickness at Steep-Sided Domes on Venus”, VEXAG 2020, #8042
 
 ### Contributed Posters
 2023	Borrelli, M. E., C. Michaut, J. G. O’Rourke, “Formation of Pancake Domes on Venus as Viscous Flows Over an Elastic Lithosphere”, AGU 2023, #1286722
+
 2022	Borrelli, M.E., D. A. Williams, J. G. O'Rourke, Investigating the Formation of Lava Channels on Venus with New Models and New Topography, LSPC 2022, #1699
+
 2022	Borrelli, M. E., C. J. Bierson, J. G. O’Rourke, Crater Statistics on Ariel and Miranda Using Newly Processed Imagery and Topography, LPSC 2022, #1649
+
 2021	Borrelli, M. E., D. A. Williams, J. G. O’Rourke, Investigating the Formation of Lava Channels on Venus with New Models and New Topography, VEXAG 2021, #8014
+
 2020	Borrelli, M. E., J. G. O’Rourke, S. E. Smrekar, and C. M. Ostberg, “Lithospheric Thickness and Heat Flow on Venus: Results from a Global Survey of Flexure at Steep-Sided Domes”, AGU Fall Meeting, #742176
+
 2020	Borrelli, M. E., J. G. O’Rourke, and S. E. Smrekar, “Venus: Are Elastic Thicknesses Inferred at Coronae Globally Representative?”, Lunar and Planetary Science Conference, #2580
+
 2018	Borrelli, M. E. and Collins, G. C., “Testing the Cryovolcanism Hypothesis for Vulcan Planum, Charon,” Cryovolcanism Workshop, Lunar and Planetary Science Institute
+
 2018	Borrelli, M. E. and Collins, G. C., “Volcanism in Vulcan Planum: Topographic Tests for the Emplacement of Smooth Plains on Charon,” Lunar and Planetary Science Conference, #2874
 
 ### Attended Workshops & Summer Schools
 2025	Planetary Science Summer School, JPL, Pasadena, California. Role: Objective Lead
+
 2022	Culturally Inclusive Planetary Engagement Workshop, Planetary ReaCH (Resources and Content Heroes), Hosted by the Lunar and Planetary Institute at ASU, Tempe, Arizona
+
 2021	Venus: Evolution Through Time Workshop, International Space Science Institute, Bern, Switzerland
+
 2018	Cryovolcanism in the Solar System Workshop, Lunar and Planetary Institute, Houston, Texas
 
 
 ### Attended Workshops & Summer Schools
-2025-present	NASA Review Panelist
+2025-present	NASA Review Panelist.
 Served as a panelist to assess proposals to LDAP and MDAP
+
 2023-present	Reviewer
 Provided reviews for manuscripts submitted to Journal of Geophysical Research: Planets and Icarus
 Spring 2024	Teaching Assistant, Geology 103, Prof. Christy Till
