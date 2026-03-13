@@ -21,8 +21,8 @@ author: Madison Borrelli, Planetary Scientist
 
 navbar-links:
   About Me: "aboutme"
-  CV: "cv"
-  Publications: "pubs"
+ # CV: "cv"
+ # Publications: "pubs"
   #Contact: "contact"
 
 ################
@@ -50,10 +50,10 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "mborrelli6@gatech.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+ # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: Madison Borrelli
+#  linkedin: Madison Borrelli
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -133,7 +133,7 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-#navbar-col: "#EAEAEA"
+navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
@@ -144,12 +144,12 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/dome.jpg"
+#navbar-img: "/assets/img/dome.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-mobile-theme-col: "#0085A1"
+#mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
