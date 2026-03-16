@@ -106,36 +106,45 @@ Thesis: Surface Features as a Probe into the Lithosphere: Volcanoes on Venus and
 2018	Cryovolcanism in the Solar System Workshop, Lunar and Planetary Institute, Houston, Texas
 
 
-### Attended Workshops & Summer Schools
-2025-present	NASA Review Panelist.
-Served as a panelist to assess proposals to LDAP and MDAP
+### Teaching, Community Service, and Policy
+2025-present	NASA Review Panelist. Served as a panelist to assess proposals to LDAP and MDAP
 
-2023-present	Reviewer
+2023-present	Reviewer.
 Provided reviews for manuscripts submitted to Journal of Geophysical Research: Planets and Icarus
-Spring 2024	Teaching Assistant, Geology 103, Prof. Christy Till
+
+Spring 2024	Teaching Assistant, Geology 103, Prof. Christy Till.
 Answered student questions, adjusted grades, and assisted online students in a class with primarily non-majors
-Spring 2024	Teaching Assistant, Introduction to Stars, Galaxies, and Cosmology, Prof. Teresa Ashcraft
+
+Spring 2024	Teaching Assistant, Introduction to Stars, Galaxies, and Cosmology, Prof. Teresa Ashcraft.
 Created study materials and assisted  ~700 online students in a class with both majors and non-majors
+
 Fall 2023	Teaching Assistant, Solar System Astronomy, Prof. Jacqueline Monkiewicz
 Held office hours and assisted ~400 online students in a class with both majors and non-majors
-2021-2022	Chief of Staff, ASU Graduate and Professional Student Association 
+
+2021-2022	Chief of Staff, ASU Graduate and Professional Student Association. 
 Assisted the President in implementing the Advocacy Agenda, and managed the three directors comprising the GPSA Public Relations Team
-Fall 2021	Field Assistant, SSERVI Toolbox for Research and Exploration (TREX)  Assisted the TREX team on two field studies in Arizona. Prepared equipment (UV, NIR, X-ray spectrometers), and assisted in taking measurements
-2020–2021	Director of Advocacy, ASU Graduate and Professional Student Association
+
+Fall 2021	Field Assistant, SSERVI Toolbox for Research and Exploration (TREX).  Assisted the TREX team on two field studies in Arizona. Prepared equipment (UV, NIR, X-ray spectrometers), and assisted in taking measurements
+
+2020–2021	Director of Advocacy, ASU Graduate and Professional Student Association.
 Advocated for institutional-level changes on behalf of the graduate student community to both administration and federal legislators
-2020–2021	Secretary, SESE Graduate Council
+
+2020–2021	Secretary, SESE Graduate Council.
 Elected to serve as a liaison between graduate students and department faculty and administration
-2020–2021	Graduate Student Peer Mentor, SESE
+
+2020–2021	Graduate Student Peer Mentor, SESE.
 Provided support and mentorship to a first-year graduate student
-2020-2021	Co-founder and facilitator, Facilitators for Inclusion
+
+2020-2021	Co-founder and facilitator, Facilitators for Inclusion.
 Ran peer-led workshops on bystander intervention. This program was awarded a Justice, Equity, Diversity, and Inclusion (JEDI) Seed Grant
-2020–2021	Instructor and Course Designer, SESE Prison Education Program
-Created and implemented curricula on geology and planetary science for incarcerated individuals at Eyman State Prison
-Fall 2020, 2019	Teaching Assistant, Introduction to Geology, Prof. Julia Johnson
+
+Fall 2020, 2019	Teaching Assistant, Introduction to Geology, Prof. Julia Johnson.
 Taught laboratory sessions and graded assignments for three laboratory sections of ~30 students each
-Summer 2020	ASU Sexual Violence Prevention Leadership Program
+
+Summer 2020	ASU Sexual Violence Prevention Leadership Program.
 Participated in a workshop focused on gaining leadership skills and sexual harassment intervention/prevention techniques
-Summer 2017	Lloyd V. Berkner Space Policy Intern, Space Studies Board, National Academy of Sciences
+
+Summer 2017	Lloyd V. Berkner Space Policy Intern, Space Studies Board, National Academy of Sciences.
 Wrote highlights on SSB reports for wide distribution, provided meeting minutes for the Planetary Science Decadal Survey Midterm Review
 
 
