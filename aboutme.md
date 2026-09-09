@@ -6,7 +6,7 @@ title: About me
 I am a postdoc in the Planetary Geophysics group at Georgia Institute of Technology. I'm interested in lithospheric and surface processes on terrestrial and icy bodies. In particular I study volcanism and impact craters on Venus, and impacts on icy moons of the outer solar system.
 
 ### I have 2 cats, Alfredo and Muffuletta
-<img width="4284" height="4699" alt="cats" src="https://github.com/user-attachments/assets/edb301fd-aef2-450e-9428-c62c2bbde7d5" />
+<img width="1000" alt="cats" src="https://github.com/user-attachments/assets/edb301fd-aef2-450e-9428-c62c2bbde7d5" />
 
 
 
