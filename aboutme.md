@@ -11,7 +11,7 @@ I am a postdoc in the Planetary Geophysics group at Georgia Institute of Technol
 
 
 ### I love crossword puzzles
-<a href="https://github.com/madisonborrelli/madisonborrelli.github.io/blob/74c3e5cc4d83d13cb4848734ef58e53df24c5485/assets/Puzzle.pdf" download>Click here to download and solve a Monday-level puzzle I constructed</a>
+<a href="https://github.com/madisonborrelli/madisonborrelli.github.io/blob/74c3e5cc4d83d13cb4848734ef58e53df24c5485/assets/Puzzle.pdf" download>Click here to download and solve a Monday-level themed puzzle I constructed</a>
 
 ### Contact
 
