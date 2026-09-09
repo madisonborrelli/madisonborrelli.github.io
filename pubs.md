@@ -4,7 +4,9 @@ title: Publications
 ---
 
 ### First author
-**Borrelli, M. E.**, C. Michaut., J. G. O’Rourke. (2025). “Formation of Pancake Domes on Venus as Viscous Flows Over an Elastic Lithosphere,” Journal of Geophysical Research: Planets 130, 5. [link](https://doi.org/10.1029/2024JE008571)
+**Borrelli, M. E.**, I. Ganesh, J., L. Bourg (2026). “Emplacement of Venus' Crater Outflows as Impact Melt,” Journal of Geophysical Research: Planets 131, 8. [link](https://doi.org/10.1029/2026JE009826)
+
+**Borrelli, M. E.**, C. Michaut, J. G. O’Rourke, (2025). “Formation of Pancake Domes on Venus as Viscous Flows Over an Elastic Lithosphere,” Journal of Geophysical Research: Planets 130, 5. [link](https://doi.org/10.1029/2024JE008571)
 
 **Borrelli, M. E.**, C. J. Bierson, J. G. O’Rourke, (2025). “Simple-To-Complex Crater Transition for the Uranian Satellites Ariel and Miranda,” Journal of Geophysical Research: Planets 130, 1. [link](https://doi.org/10.1029/2024JE008507)
 
