@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 ### Research Interests
-I am a postdoc in the Planetary Geophysics group at Georgia Institute of Technology. In general, I am interested in using surface features to learn about global geodynamics and crustal evolution. I am particularly interested in Venus and all of its weird and wonderful volcanic features. Much of my work has focused on pancake domes, flat-topped round volcanoes of a scale that we do not see on Earth. I have studied their global distribution, relationship to elastic thickness and heat flow, and formation over a bending lithosphere. I have studied Venus' crater outflows, large meandering flow features emerging from ~1/3 of Venus' impact craters which likely formed by impact melt. I am also interested in icy moons, and how we can use impact craters to learn about crustal composition and resurfacing history.
+I am a Scripps Institutional Postdoctoral Scholar in the Institute for Geophysics and Planetary Physics at Scripps/UCSD. In general, I am interested in using surface features to learn about global geodynamics and crustal evolution. I am particularly interested in Venus and all of its weird and wonderful volcanic features. Much of my work has focused on pancake domes, flat-topped round volcanoes of a scale that we do not see on Earth. I have studied their global distribution, relationship to elastic thickness and heat flow, and formation over a bending lithosphere. I have studied Venus' crater outflows, large meandering flow features emerging from ~1/3 of Venus' impact craters which likely formed by impact melt. I am also interested in icy moons, and how we can use impact craters to learn about crustal composition and resurfacing history.
 
 
 ### Here are my 2 cats, Alfredo and Muffuletta
@@ -16,4 +16,4 @@ I am a postdoc in the Planetary Geophysics group at Georgia Institute of Technol
 
 ### Contact
 
-You can reach me at mborrelli6@gatech.edu
+You can reach me at maborrelli@ucsd.edu
