@@ -4,7 +4,7 @@ title: Curriculum Vitae
 $subtitle: SUBTITLE
 ---
 
-<a href="https://github.com/madisonborrelli/madisonborrelli.github.io/blob/f8f936fc1f4b7686091ab3f710962ef034e15269/assets/Madison_Borrelli_CV.pdf" download>Download my CV here</a>
+<a href="https://github.com/madisonborrelli/madisonborrelli.github.io/blob/52bbf6a6d615f1ebb1606e6d6b0dba9905aa5a7c/assets/Madison_Borrelli_CV.pdf" download>Download my CV here</a>
 
 ### Research Interests
 
